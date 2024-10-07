@@ -1,3 +1,3 @@
-# Test README Title
+# Demo Project README
 
-This is just siple README text.
+This is a siple README file.
