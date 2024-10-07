@@ -4,4 +4,4 @@ This is a siple README file.
 
 # Heading 2
 
-I hope this isn't make a problem!
+Just some updates, and features
